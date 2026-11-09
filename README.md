@@ -20,3 +20,18 @@ A modular, production-ready Python automation tool designed to securely scrape, 
 ---
 
 ## 🛠️ Architecture Overview
+
+---
+
+## 🚀 Quick Start
+
+### 1. Prerequisites
+- Python 3.8 or higher installed on your system.
+
+### 2. Installation & Setup
+Clone the repository and install dependencies:
+
+```bash
+git clone [https://github.com/wenceslaoroan-code/python-web-scraper.git](https://github.com/wenceslaoroan-code/python-web-scraper.git)
+cd python-web-scraper
+pip install -r requirements.txt
