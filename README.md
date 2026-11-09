@@ -35,3 +35,9 @@ Clone the repository and install dependencies:
 git clone [https://github.com/wenceslaoroan-code/python-web-scraper.git](https://github.com/wenceslaoroan-code/python-web-scraper.git)
 cd python-web-scraper
 pip install -r requirements.txt
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
