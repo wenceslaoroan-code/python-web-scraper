@@ -19,4 +19,4 @@ A modular, production-ready Python automation tool designed to securely scrape, 
 
 ---
 
-## 🛠️ Architecture Overviewv
+## 🛠️ Architecture Overview
